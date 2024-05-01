@@ -6,7 +6,10 @@ Wireless Power Transmission for Biomedical Implants is a project developed as pa
 ## Description
 The project aims to explore and enhance the efficiency of wireless power transmission for biomedical implants, ultimately striving to eliminate the need for surgical operations to replace batteries in medical devices such as cardiac implants. Through a combination of experimental and theoretical approaches, various coupling methods were investigated, including non-resonant and resonant coupling techniques.
 
-## Presentation
+## Experimental Success
+At resonant frequencies, the efficiency reaches 8, equivalent to 800%, confirming the success of the experiment and the project.
+
+## Content
 The presentation PDF file, detailing the project's objectives, methods, results, and conclusions, is available for review. It provides a comprehensive overview of the project's scope, methodologies, and outcomes. Also a documentation file is available, it outlines the thematic positioning, bibliographic commentary, selected keywords, problem statement, objectives, and bibliographic references associated with the project.
 
 ## Acknowledgments
